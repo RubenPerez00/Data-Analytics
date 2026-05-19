@@ -14,3 +14,4 @@ En este proyecto se realizará un EDA y una segmentación en un historial de ven
 ├── 📊 Analisis_Venta_y_Perfiles_Cliente_EEUU.xlsx  # Archivo Excel con datos limpios, tablas dinámicas y gráficos.
 └── 📝 README.md                                    # Documentación del proyecto, conclusiones e insights.
 ```
+Link de la página donde he sacado la base de datos : https://www.kaggle.com/datasets/missionjee/car-sales-report 
