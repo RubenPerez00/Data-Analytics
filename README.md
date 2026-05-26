@@ -52,6 +52,10 @@ Las contribuciones para optimizar la estructura de las fórmulas o proponer nuev
 ## 👤 Autores y Agradecimientos
 
 **Autor:** Rubén Pérez Fernández
+
+
 **Contacto:** rubenpefer00@gmail.com
+
+
 **Base de datos** https://www.kaggle.com/datasets/missionjee/car-sales-report 
 
