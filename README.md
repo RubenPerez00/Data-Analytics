@@ -17,7 +17,7 @@ En este proyecto se realizará un EDA y una segmentación en un historial de ven
 
 ## 🔧 Estructura del Proyecto
 
-Este proyecto se ha realizado con Excel con la Version 2604 y no requiere la instalación de librerías de código.
+Este proyecto se ha realizado con Excel en la Version 2604 y no requiere la instalación de librerías de código.
 
 ## 📈 Resultados y Conclusiones
 
