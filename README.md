@@ -13,10 +13,11 @@ En este proyecto se realizará un EDA y una segmentación en un historial de ven
 📁 Analisis_Ventas_EEUU/
 ├── 📊 Analisis_Venta_y_Perfiles_Cliente_EEUU.xlsx  # Archivo Excel con datos limpios, tablas dinámicas y gráficos.
 ├── 🗒️ Car Sales.xlsx - car_data.csv                # Base de datos original,
+├── 📕 Análisis_explicativo.pdf                         # Informe explicativo del proyecto
 └── 📝 README.md                                    # Documentación del proyecto, conclusiones e insights.
 ```
 
-## 🔧 Estructura del Proyecto
+## 🔧 Instalación y requisitos
 
 Este proyecto se ha realizado con Excel en la Version 2604 y no requiere la instalación de librerías de código.
 
