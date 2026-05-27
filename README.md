@@ -34,6 +34,11 @@ Este proyecto se ha realizado con Excel en la Version 2604 y no requiere la inst
 
 
 
+**Preferencia de Carrocería:** Siguiendo con el análisis de mercado vemos un claro liderazgo entre la carrocería SUV y Hatchback, superando en ambos los 6.000 vehículos vendidos. Y siendo la menos elegida la carrocería Hardtop con un promedio de 2971 vehículos vendidos
+
+
+
+
 **Venta Comercial:** Se confirmó a *"Progressive Shippers Cooperative"* como el concesionario líder del negocio (con la mayor venta en unidades). Destacando a **Chevrolet** y **Dodge** como las marcas más exitosas. Por el contrario, marcas premium como **Jaguar** o **Porsche** se muestran como una de las menos vendidas.
 
 
